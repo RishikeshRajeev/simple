@@ -1,0 +1,18 @@
+
+header {
+    background-color: #af4c61;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+}
+
+li {
+    font-size: 18px;
+    margin: 10px 0;
+    
+}
